@@ -7,4 +7,19 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="dark_orange_text">#6A2711</color>
+    <color name="orange_text">#FF9800</color>
+    <color name="bg_color">#FFDFBC</color>
+
+    <color name="blue_text_bg">#90CAF9</color>
+    <color name="blue_text_500">#3F51B5</color>
+
+    <color name="dark_grey">#3A3A3A</color>
+    <color name="light_grey">#AAA6A6</color>
+
+    <!-- For new theme :)    -->
+    <color name="orange_primary">#EF6C00</color>
+    <color name="orange_primary_darker">#D84315</color>
+
 </resources>
