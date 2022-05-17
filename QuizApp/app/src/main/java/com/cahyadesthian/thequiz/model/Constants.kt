@@ -95,7 +95,7 @@ object Constants {
             "Turkey", "Kuwait", "Arab", "India",
             2
         )
-        questionList.add(que8)
+        questionList.add(que9)
 
         //question 10
         val que10 = Question(
@@ -105,7 +105,7 @@ object Constants {
             "Kuwait", "Argentina", "Fiji", "New Zealand",
             4
         )
-        questionList.add(que8)
+        questionList.add(que10)
 
 
         return questionList
